@@ -1,4 +1,4 @@
-<h2>📝 SKILLS </h2>
+
 <div>
 <img src="https://img.shields.io/badge/JAVA-007396?flat-squaree&logo=java&logoColor=white"> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
