@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=0CBAEAFF&height=100&section=header&text=Semin's%20github%&fontSize=45)
+![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=42b0ef&height=100&section=header&text=Hi,%20I'm%20Semin%20👋%&fontSize=40)
 <!--
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=28&height=100&section=header&text=Semin's%20github%&fontSize=25&fontAlign=85)
 -->
