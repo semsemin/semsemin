@@ -1,4 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=0CBAEAFF&height=100&section=header&text=Semin's%20github%&fontSize=45)
+<!--
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=28&height=100&section=header&text=Semin's%20github%&fontSize=25&fontAlign=85)
+-->
 ## 📍 Project
 * **Picount** : a household register with decorative functions `2025.3 ~`
 * **Tackit** : Onboarding Platform for New Employees `2025.3 ~ 2025.6` <!--신입사원 온보딩 플랫폼-->
