@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=28&height=100&section=header&text=Semin's%20github%&fontSize=25&fontAlign=85)
 -->
 ## 📍 Project
-* **Picount** : a household register with decorative functions `2025.3 ~`
+* **Picount** : a house keeping book with decorative functions `2025.3 ~`
 * **Tackit** : Onboarding Platform for New Employees `2025.3 ~ 2025.6` <!--신입사원 온보딩 플랫폼-->
 * **FixLog** : Troubleshooting Sharing Services `2025.3 ~ 2025.6`  <!--트러블 슈팅 공유 서비스-->
 * **Linkor** : Korean tutor matching application to improve Korean language skills of multicultural families `2023.12 ~ 2024.2`  <!--다문화 가정의 한국어 실력 향상을 위한 한국인 튜터 매칭 어플 -->
