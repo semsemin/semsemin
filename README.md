@@ -11,7 +11,7 @@
 
 ## 📍 Experience
 * 9oormthonUNIV (kakao x goorm), 4th member `2025.3 ~`
-* Solux, 30th member `2025.3 ~`
+* Solux, 30th member `2025.3 ~ 2025.7`
 * AI Interface and Data Visualization Lab : Undergraduate researcher `2024.8 ~ 2025.2`
 * GDSC (Google Developer Student Clubs) Sookmyung `2023.9 ~ 2024.6`
 * Forza, 27th member `2022.3 ~ 2024.2`
