@@ -10,7 +10,7 @@
 * RAG-based Real-Time Item Recommendation through Image AI Analysis `2024.8 ~ 2025.2` <!--이미지 AI 분석을 통한 RAG기반 실시간 상품 추천 서비스 -->
 
 ## 📍 Experience
-* 9oormthonUNIV (kakao x goorm), 4th member `2025.3 ~`
+* 9oormthonUNIV (kakao x goorm), 4th member `2025.3 ~ 7`
 * Solux, 30th member `2025.3 ~ 2025.7`
 * AI Interface and Data Visualization Lab : Undergraduate researcher `2024.8 ~ 2025.2`
 * GDSC (Google Developer Student Clubs) Sookmyung `2023.9 ~ 2024.6`
