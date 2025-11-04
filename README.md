@@ -19,5 +19,8 @@
 * Forza, 27th member `2022.3 ~ 2024.2`
 * Sookmyung Women's Unniversity, Computer Science `2022.3 ~`
 
+## 📍Education
+* LG U+ Ureka `2025.8 ~ 2026.3`
+
 ## 📍 Awards
 * (Sookmyung) Contest to utilize Generative AI - the grand prize🏆
